@@ -11,7 +11,6 @@ public class Cube : MonoBehaviour
     GameObject CubeCenterPiece;
     bool canRotate = true;
 
-
     List<GameObject> UpPieces
     {//https://www.youtube.com/watch?v=IISStnxa9jM&t=373s
       get
